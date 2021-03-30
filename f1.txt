@@ -1,5 +1,4 @@
 master 1
 develop
 feature some 3
-release1.0 4
-hofix 5
+great 1
